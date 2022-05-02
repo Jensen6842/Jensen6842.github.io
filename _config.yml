@@ -1,1 +1,7 @@
+title: Jensen6842
+description: Jensen6842!
+markdown: kramdown
 theme: jekyll-theme-hacker
+url: "https://jensen6842.github.io/"
+plugins:
+  - jekyll-sitemap
